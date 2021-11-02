@@ -8,10 +8,10 @@ core/classes/tcpip.h
   
 
 Prepare to run script:  
-![alt text](https://github.com/GloryToMoon/comments_search/blob/assets/find-files.png)
+![alt text](https://github.com/GloryToMoon/extensions_parse/blob/assets/find-files.png)
 
 Example of running script:  
-![alt text](https://github.com/GloryToMoon/comments_search/blob/assets/ext-example.png)
+![alt text](https://github.com/GloryToMoon/extensions_parse/blob/assets/ext-example.png)
 
 Output:  
-![alt text](https://github.com/GloryToMoon/comments_search/blob/assets/ext-output.png)
+![alt text](https://github.com/GloryToMoon/extensions_parse/blob/assets/ext-output.png)
